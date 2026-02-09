@@ -1,0 +1,42 @@
+C:\Users\Görkem\source\repos\Project_3\Project_3\bin\Debug\net9.0\Project_3.exe
+C:\Users\Görkem\source\repos\Project_3\Project_3\bin\Debug\net9.0\Project_3.deps.json
+C:\Users\Görkem\source\repos\Project_3\Project_3\bin\Debug\net9.0\Project_3.runtimeconfig.json
+C:\Users\Görkem\source\repos\Project_3\Project_3\bin\Debug\net9.0\Project_3.dll
+C:\Users\Görkem\source\repos\Project_3\Project_3\bin\Debug\net9.0\Project_3.pdb
+C:\Users\Görkem\source\repos\Project_3\Project_3\obj\Debug\net9.0\Project_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Görkem\source\repos\Project_3\Project_3\obj\Debug\net9.0\Project_3.AssemblyInfoInputs.cache
+C:\Users\Görkem\source\repos\Project_3\Project_3\obj\Debug\net9.0\Project_3.AssemblyInfo.cs
+C:\Users\Görkem\source\repos\Project_3\Project_3\obj\Debug\net9.0\Project_3.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\source\repos\Project_3\Project_3\obj\Debug\net9.0\Project_3.dll
+C:\Users\Görkem\source\repos\Project_3\Project_3\obj\Debug\net9.0\refint\Project_3.dll
+C:\Users\Görkem\source\repos\Project_3\Project_3\obj\Debug\net9.0\Project_3.pdb
+C:\Users\Görkem\source\repos\Project_3\Project_3\obj\Debug\net9.0\Project_3.genruntimeconfig.cache
+C:\Users\Görkem\source\repos\Project_3\Project_3\obj\Debug\net9.0\ref\Project_3.dll
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\bin\Debug\net9.0\Project_3.exe
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\bin\Debug\net9.0\Project_3.deps.json
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\bin\Debug\net9.0\Project_3.runtimeconfig.json
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\bin\Debug\net9.0\Project_3.dll
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\bin\Debug\net9.0\Project_3.pdb
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.AssemblyInfoInputs.cache
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.AssemblyInfo.cs
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.dll
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\refint\Project_3.dll
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.pdb
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.genruntimeconfig.cache
+C:\Users\Görkem\OneDrive\Masaüstü\proje deneme\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\ref\Project_3.dll
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\bin\Debug\net9.0\Project_3.exe
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\bin\Debug\net9.0\Project_3.deps.json
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\bin\Debug\net9.0\Project_3.runtimeconfig.json
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\bin\Debug\net9.0\Project_3.dll
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\bin\Debug\net9.0\Project_3.pdb
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.AssemblyInfoInputs.cache
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.AssemblyInfo.cs
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.dll
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\refint\Project_3.dll
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.pdb
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\Project_3.genruntimeconfig.cache
+C:\Users\Görkem\OneDrive\Masaüstü\05220000315_GörkemEgeAkıncı_05220000277_MertKeremDalkılınç_05220000329_YiğitÇakar\Project_3\Project_3\obj\Debug\net9.0\ref\Project_3.dll
